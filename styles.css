@@ -1,0 +1,32 @@
+/* #cv-form{
+    display: none;
+} */
+.myimage{
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 250px;
+}
+.background{
+    background-color: #fbe3e8;
+}
+#cv-template{
+
+    display: none;
+}
+.CVbutton{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #fb7d98;
+    outline: none;
+    border: none;
+    width: 100px;
+    height: 35px;
+    /* color: white; */
+    transition: 200ms;
+
+}
+.CVbutton:hover{
+    background-color: #f15073;
+    /* scale: 1.02; */
+    border: 1px solid black;
+}
